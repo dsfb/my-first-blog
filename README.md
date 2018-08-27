@@ -1,5 +1,5 @@
 # my-first-blog
-Blog Project from DjangoGirls Tutorial...
+Making Blog Project from DjangoGirls Tutorial...
 
 The website at pythonanywhere is: http://dsfb4ws.pythonanywhere.com/
 
